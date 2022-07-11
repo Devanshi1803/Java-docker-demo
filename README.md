@@ -4,5 +4,4 @@ Purpose:
 2) Create Docker image for that java application
     -> create dockerfile
     -> create image using <docker build> command
-3) Use Postman to call it
-    
+3) Use Postman to call it.
